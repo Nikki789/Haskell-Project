@@ -1,5 +1,5 @@
 # Instructions to run
-1. Install Ghci application (ghc-9.2.3-x86_64-unknown-mingw32)
+1. Install Ghci (Glasgow Haskell Compiler) application (ghc-9.2.3-x86_64-unknown-mingw32)
 2. Navigate to the directory of the .hs program with the commands typed into Ghci: 
    1. :cd D:\HaskellCW -> changes the directory
    2. :load 899244.hs -> should output that one module is loaded, in this case the .hs file
